@@ -1,7 +1,7 @@
 # 📚 CSV Book Editor
 
 A React web app built as part of the Notion Press assignment.  
-This app allows users to **upload, view, edit, filter, sort, and download large CSV files of book data smoothly in the browser.
+This app allows users to upload, view, edit, filter, sort, and download large CSV files of book data smoothly in the browser.
 
 ---
 
